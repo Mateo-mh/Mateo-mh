@@ -35,11 +35,11 @@ Entre otras herramientas, también tengo conocimiento en:
 
 <!-- Logos de redes sociales con enlaces -->
 [<img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin.svg" width="60" />](https://www.linkedin.com/in/byron-martínez-86b5bb231/) &nbsp;
-[<img src="https://github.com/gilbarbara/logos/blob/main/logos/twitter.svg" width="30" />](https://twitter.com/_Bamder__) &nbsp;
+[<img src="https://github.com/gilbarbara/logos/blob/main/logos/twitter.svg" width="30" />](https://twitter.com/_Bamder_) &nbsp;
 [<img src="https://github.com/gilbarbara/logos/blob/main/logos/instagram.svg" width="60" />](https://www.instagram.com/mateo_mh22/) &nbsp;
 [<img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" width="30" />](mailto:byronmh8@gmail.com)
 
-## Programación es mi pasión 🖥️
+## Programar es mi pasión 🖥️
 
 <!-- Imagen de programación -->
 
