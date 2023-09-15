@@ -23,10 +23,10 @@ Soy un apasionado programador fullstack con un objetivo claro: brindar solucione
 </p>
 
 Entre otras herramientas, también tengo conocimiento en:
+<img src="programacion.png" align="right" width="250" />
 - Photoshop
 - Illustrator
 - Figma 
-<img src="programacion.png" align="right" width="250" />
 
 ## Contáctame 📫
 
