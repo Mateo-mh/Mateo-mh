@@ -14,7 +14,7 @@ Soy un apasionado programador fullstack con un objetivo claro: brindar solucione
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" width="40" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg" width="40" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/redux.svg" width="40" />
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/express.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/express.svg" width="70" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/postgresql.svg" width="40" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/sequelize.svg" width="40" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/git.svg" width="40" />
