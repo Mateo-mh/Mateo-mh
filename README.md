@@ -8,18 +8,19 @@ Soy un apasionado programador fullstack con un objetivo claro: brindar solucione
 <!-- Logos de tecnologías -->
 <p float="left">
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg" width="40" />
-  <img src="logos/css.png" width="100" /> 
-  <img src="logos/javascript.png" width="100" />
-  <img src="logos/react.png" width="100" />
-  <img src="logos/redux.png" width="100" />
-  <img src="logos/nodejs.png" width="100" />
-  <img src="logos/express.png" width="100" />
-  <img src="logos/postgresql.png" width="100" />
-  <img src="logos/sequelize.png" width="100" />
-  <img src="logos/git.png" width="100" />
-  <img src="logos/less.png" width="100" />
-  <img src="logos/tailwind.png" width="100" />
-  <img src="logos/python.png" width="100" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg" width="40" /> 
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/nodejs.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/react.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/redux.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/express.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/postgresql.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/sequelize.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/git.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/less.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/tailwindcss.svg" width="40" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/bootstrap.svg" width="40" />
 </p>
 
 Entre otras herramientas, también tengo conocimiento en:
@@ -33,10 +34,10 @@ Entre otras herramientas, también tengo conocimiento en:
 ¡No dudes en contactarme a través de mis redes sociales!
 
 <!-- Logos de redes sociales con enlaces -->
-[<img src="logos/linkedin.png" width="30" />](https://www.linkedin.com/in/byron-martínez-86b5bb231/) &nbsp;
-[<img src="logos/twitter.png" width="30" />](https://twitter.com/_Bamder_) &nbsp;
-[<img src="logos/instagram.png" width="30" />](https://www.instagram.com/mateo_mh22/) &nbsp;
-[<img src="logos/gmail.png" width="30" />](mailto:byronmh8@gmail.com)
+[<img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin.svg" width="30" />](https://www.linkedin.com/in/byron-martínez-86b5bb231/) &nbsp;
+[<img src="https://github.com/gilbarbara/logos/blob/main/logos/twitter.svg" width="30" />](https://twitter.com/_Bamder__) &nbsp;
+[<img src="https://github.com/gilbarbara/logos/blob/main/logos/instagram.svg" width="30" />](https://www.instagram.com/mateo_mh22/) &nbsp;
+[<img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" width="30" />](mailto:byronmh8@gmail.com)
 
 ## Programación es mi pasión 🖥️
 
