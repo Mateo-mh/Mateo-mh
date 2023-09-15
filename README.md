@@ -23,7 +23,9 @@ Soy un apasionado programador fullstack con un objetivo claro: brindar solucione
 </p>
 
 Entre otras herramientas, también tengo conocimiento en:
-Photoshop, Illustrator y Figma para el diseño visual de material.
+- Photoshop
+- Illustrator
+- Figma 
 <img src="programacion.png" align="right" width="250" />
 
 ## Contáctame 📫
