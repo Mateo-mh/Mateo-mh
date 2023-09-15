@@ -7,7 +7,7 @@ Soy un apasionado programador fullstack con un objetivo claro: brindar solucione
 
 <!-- Logos de tecnologías -->
 <p float="left">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/bea0759cf5fbfaad7e92e6032ff9481dd82de561/logos/html-5.svg" width="100" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg" width="100" />
   <img src="logos/css.png" width="100" /> 
   <img src="logos/javascript.png" width="100" />
   <img src="logos/react.png" width="100" />
