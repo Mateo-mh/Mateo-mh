@@ -23,6 +23,7 @@ Soy un apasionado programador fullstack con un objetivo claro: brindar solucione
 </p>
 
 Entre otras herramientas, también tengo conocimiento en Photoshop, Illustrator y Figma para el diseño visual de material.
+<img src="programacion.png" align="right" width="250" />
 
 ## Contáctame 📫
 
@@ -37,7 +38,6 @@ Entre otras herramientas, también tengo conocimiento en Photoshop, Illustrator 
 ## Programación es mi pasión 🖥️
 
 <!-- Imagen de programación -->
-<img src="programacion.png" align="right" width="250" />
 
 ¡Gracias por visitar mi perfil! Si compartes mi pasión por la programación y la tecnología, ¡no dudes en conectarte conmigo en las redes sociales o enviarme un correo electrónico! Estoy siempre interesado en colaborar en proyectos emocionantes y aprender de otros profesionales apasionados como tú.
 
