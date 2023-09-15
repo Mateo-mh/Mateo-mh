@@ -17,14 +17,14 @@ Soy un apasionado programador fullstack con un objetivo claro: brindar solucione
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/express.svg" width="70" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/postgresql.svg" width="40" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/sequelize.svg" width="40" />
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/git.svg" width="70" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/git.svg" width="80" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/less.svg" width="60" />
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/tailwindcss.svg" width="70" />
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/tailwindcss.svg" width="80" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/bootstrap.svg" width="40" />
 </p>
 
 Entre otras herramientas, también tengo conocimiento en:
-<img src="https://lh3.googleusercontent.com/XSDv6XYZ973bdxMBDJ1adLHpSSUv4vsZJaePpms21eZDl-27JIfTHIYXnnudwPfAg_1-59bKAarMhWGNagsTR2Gq0pAWBUw6CwYwH2V0TzDXZT9z1fKvr1vCOrk8nxZ-U7wVfOJq" align="right" width="250" />
+<img src="https://lh3.googleusercontent.com/XSDv6XYZ973bdxMBDJ1adLHpSSUv4vsZJaePpms21eZDl-27JIfTHIYXnnudwPfAg_1-59bKAarMhWGNagsTR2Gq0pAWBUw6CwYwH2V0TzDXZT9z1fKvr1vCOrk8nxZ-U7wVfOJq" align="right" width="300" />
 - Photoshop
 - Illustrator
 - Figma 
