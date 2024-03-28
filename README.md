@@ -9,6 +9,7 @@ Soy un apasionado programador fullstack con un objetivo claro: brindar solucione
 <p float="left">
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg" width="40" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg" width="40" /> 
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" width="40" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/javascript.svg" width="40" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/nodejs.svg" width="40" />
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/python.svg" width="40" />
