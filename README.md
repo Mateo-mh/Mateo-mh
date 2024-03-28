@@ -25,7 +25,6 @@ Soy un apasionado programador fullstack con un objetivo claro: brindar solucione
 </p>
 
 Entre otras herramientas, también tengo conocimiento en:
-<img src="https://lh3.googleusercontent.com/XSDv6XYZ973bdxMBDJ1adLHpSSUv4vsZJaePpms21eZDl-27JIfTHIYXnnudwPfAg_1-59bKAarMhWGNagsTR2Gq0pAWBUw6CwYwH2V0TzDXZT9z1fKvr1vCOrk8nxZ-U7wVfOJq" align="right" width="260" />
 - Photoshop
 - Illustrator
 - Figma 
@@ -37,7 +36,6 @@ Entre otras herramientas, también tengo conocimiento en:
 <!-- Logos de redes sociales con enlaces -->
 [<img src="https://github.com/gilbarbara/logos/blob/main/logos/linkedin.svg" width="60" />](https://www.linkedin.com/in/byron-martínez-86b5bb231/) &nbsp;
 [<img src="https://github.com/gilbarbara/logos/blob/main/logos/twitter.svg" width="30" />](https://twitter.com/_Bamder_) &nbsp;
-[<img src="https://github.com/gilbarbara/logos/blob/main/logos/instagram.svg" width="60" />](https://www.instagram.com/mateo_mh22/) &nbsp;
 [<img src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" width="30" />](mailto:byronmh8@gmail.com)
 
 ## Programar es mi pasión 🖥️
