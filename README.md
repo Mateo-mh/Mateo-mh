@@ -40,10 +40,7 @@ Entre otras herramientas, también tengo conocimiento en:
 
 ## Programar es mi pasión 🖥️
 
-<div style="display: flex; align-items: center;">
-  <img src="https://images.unsplash.com/photo-1542903660-eedba2cda473?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="118" height="118" style="margin-right: 20px;" />
-  <p>¡Gracias por visitar mi perfil! Si compartes mi pasión por la programación y la tecnología, ¡no dudes en conectarte conmigo en las redes sociales o enviarme un correo electrónico! Estoy siempre interesado en colaborar en proyectos emocionantes y aprender de otros profesionales apasionados como tú.</p>
-</div>
+<p>¡Gracias por visitar mi perfil! Si compartes mi pasión por la programación y la tecnología, ¡no dudes en conectarte conmigo en las redes sociales o enviarme un correo electrónico! Estoy siempre interesado en colaborar en proyectos emocionantes y aprender de otros profesionales apasionados como tú.</p>
 
 
 </details>
